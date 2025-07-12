@@ -13,7 +13,7 @@
             v-model="flashcardModeSetting"
             class="form-check-input"
           />
-          <label for="showJapanese" class="form-check-label flag">🇮🇹</label>
+          <label for="showJapanese" class="form-check-label flag">🇯🇵</label>
           <!-- <label class="form-check-label" v-html="japaneseEmoji"></label> -->
         </div>
         <div class="form-check form-check-inline flag-container">
